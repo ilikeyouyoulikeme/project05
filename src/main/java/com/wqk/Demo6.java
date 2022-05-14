@@ -21,5 +21,9 @@ public class Demo6 extends HttpServlet {
         System.out.println("gh");
         System.out.println("gs");
         System.out.println("push test");
+         System.out.println("不需要");
+        
+       
+        
     }
 }
