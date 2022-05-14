@@ -20,5 +20,6 @@ public class Demo6 extends HttpServlet {
     protected void service(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("gh");
         System.out.println("gs");
+        System.out.println("push test");
     }
 }
